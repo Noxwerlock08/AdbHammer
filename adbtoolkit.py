@@ -110,8 +110,8 @@ class ADBGui(QMainWindow):
 
     def showAboutDialog(self):
         aboutText = """
-        ADB Commander v1.0\n
-        Developed by: Your Name\n
+        ADB Commander v1.5\n
+        Developed by: Noxwerlock\n
         A tool for managing Android devices using ADB.\n
         """
         self.consoleOutput.append(aboutText)

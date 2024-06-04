@@ -1,6 +1,6 @@
 # AdbHammer
 
-ADB Commander es una herramienta GUI para la gestión de dispositivos Android mediante ADB (Android Debug Bridge). Esta aplicación permite realizar diversas operaciones en dispositivos Android de manera sencilla y eficiente.
+ADB Hammer es una herramienta GUI para la gestión de dispositivos Android mediante ADB (Android Debug Bridge). Esta aplicación permite realizar diversas operaciones en dispositivos Android de manera sencilla y eficiente.
 
 ## Características
 
@@ -41,7 +41,7 @@ ADB Commander es una herramienta GUI para la gestión de dispositivos Android me
 
 2. **Instalar dependencias**:
     ```bash
-    pip install pyqt5
+    pip install -r requirements.txt
     ```
 
 3. **Configurar ADB**:
@@ -49,7 +49,7 @@ ADB Commander es una herramienta GUI para la gestión de dispositivos Android me
 
 4. **Ejecutar la aplicación**:
     ```bash
-    python adb_gui.py
+    python adbtoolkit.py
     ```
 
 ## Uso
@@ -66,4 +66,4 @@ Las contribuciones son bienvenidas. Por favor, abre un issue o un pull request p
 
 Este proyecto está licenciado bajo la Licencia MIT. Ver el archivo [LICENSE](LICENSE) para más detalles.
 
-¡Gracias por usar ADB Commander!
+¡Gracias por usar ADB Hammer!

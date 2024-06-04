@@ -35,8 +35,8 @@ ADB Hammer es una herramienta GUI para la gestión de dispositivos Android media
 
 1. **Clonar el repositorio**:
     ```bash
-    git clone https://github.com/tu_usuario/adb-commander.git
-    cd adb-commander
+    git clone https://github.com/Noxwerlock08/AdbHammer.git
+    cd AdbHammer
     ```
 
 2. **Instalar dependencias**:
@@ -49,12 +49,12 @@ ADB Hammer es una herramienta GUI para la gestión de dispositivos Android media
 
 4. **Ejecutar la aplicación**:
     ```bash
-    python adbtoolkit.py
+    python3 adbtoolkit.py
     ```
 
 ## Uso
 
-1. **Conectar el dispositivo**: Conecta tu dispositivo Android al ordenador mediante un cable USB y habilita la depuración USB.
+1. **Conectar el dispositivo**: Conecta tu dispositivo Android al ordenador mediante un cable USB y habilita la depuración USB. (En algunos dispositivos se puede activar la depuracion inalámbrica lo que hace que funcione sin el cable usb conectado)
 2. **Ejecutar ADB Commander**: Sigue los pasos de instalación y ejecución mencionados anteriormente.
 3. **Usar la GUI**: Utiliza la interfaz gráfica para realizar las operaciones deseadas en tu dispositivo Android.
 
